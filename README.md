@@ -23,3 +23,4 @@ Age groups
 Education levels
 
 This project demonstrates skills in data cleaning, exploratory analysis, visualization, and dashboard design, while translating raw survey data into clear insights that reveal patterns in the software development ecosystem.
+- ⚠️ Note: in the provided dataset i uploaded only the first 5000 not the full dataset due to it's large size
